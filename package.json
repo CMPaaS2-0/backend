@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "CMPaaS Official Backend Repository",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMPaaS2-0/backend.git"
+  },
+  "author": "Wagner de Andrade Perin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMPaaS2-0/backend/issues"
+  },
+  "homepage": "https://github.com/CMPaaS2-0/backend#readme"
+}
